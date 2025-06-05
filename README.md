@@ -44,7 +44,10 @@ This RAG system lets users ask questions in natural language and receive context
    Provide the answer along with source references.
 
 ---
+## Flow Chart
+![image](https://github.com/user-attachments/assets/196646c0-976c-4427-a71f-99de88175495)
 
+---
 ## Configuration
 
 ```python
